@@ -1,4 +1,4 @@
-# CodingBlocks-Launchpad-C++-Solutions
-Solutions of all challenges in Coding Blocks Launchpad C++ course.
+# CodingBlocks-Algo++-Solutions
+Solutions of all challenges in Coding Blocks Algo++ course.
 
-All the solutions of launchpad course from Coding Blocks are available in C++ language.
+All the solutions of Algo++ course from Coding Blocks are available in C++ language.
